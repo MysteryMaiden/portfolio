@@ -17,7 +17,7 @@ function changeTab(blank1, blank2){
     if(isCorrect(blank1, blank2) === false){
         alert("The password or username is incorrect, please try again.")
     } else if (isCorrect(blank1, blank2) === true){
-        window.location.href = 'file:///Users/sage/Desktop/Webpages/Cheet%20Sheet/portfolio%20project/Inbox%20page%20and%20Login/inbox.html';
+        window.location.href = 'https://mysterymaiden.github.io/portfolio/inbox.html';
     }
 }
 // when submit button is pressed i want it to changeTab
