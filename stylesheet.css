@@ -233,10 +233,9 @@ display: inline-block;
 }
 
 .inline-block{
-    padding: 0 41px;
+    margin:0px auto;
     display: inline-block;
     width: 500px;
-    margin-top:0px;
     text-align: center;
 }
 
