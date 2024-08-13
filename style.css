@@ -1,0 +1,108 @@
+body{
+    background-image:url(../images/login-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Open Sans";
+    margin: 0px;
+
+}
+
+main{
+    text-align: center;
+}
+
+nav{
+    border-bottom: 2px solid white;
+    background-color:#8D81AC;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 200;
+}
+nav h3{
+    display: inline;
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+.logo{
+    margin: none;
+    text-align: left !important;
+}
+.nav-links {
+    float: right;
+    padding-top: 10px;
+margin-right: 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-left:2px solid white ;
+    transition:300ms;
+    font-size: 1em !important;
+}
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.section-header{
+    color: white;
+    border-bottom:3px solid white;
+    font-size: 70px;
+    padding-top: 100px;
+    text-align: center;
+    width: 700px;
+    margin:0px auto;
+}
+
+.login-section{
+    background-color: rgba(10, 5, 0, 0.74);
+    height: 100%;
+}
+
+input {
+background-color: #8D81AC;
+border: 1px solid white;
+color: white !important;
+width: 500px;
+font-size: 25px;
+
+}
+
+input::placeholder{
+color: white;
+}
+
+p{
+    font-size:1.5em;
+    margin-bottom: 50px;
+
+}
+
+#submit {
+    margin: 0px 43%;
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    background-color: #8D81AC;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+    margin-bottom: 50px;
+    }
+
+    #submit:active{
+        margin: 5px 43%;
+        color: white;
+        background-color: #8D81AC;
+        border: 2px solid white;
+    
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+    }
