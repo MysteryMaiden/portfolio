@@ -129,12 +129,12 @@ padding-top: 0;
 }
 
 #about-photo{
-    width: 400px;
+    width: 380px;
     border: 10px solid #8D81AC;
     margin-top:0px;
     float: right;
     clear: right;
-    height: 400px;
+    height: 380px;
     margin: 40px;
     object-fit: cover;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
