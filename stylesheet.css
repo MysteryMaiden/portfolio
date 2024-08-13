@@ -101,7 +101,7 @@ h2 {
 .section-header{
     color: #382E4F;
     border-bottom: 2px solid #382E4F;
-    max-width: 400px;
+    max-width: 400px; 
     text-align: center;
     font-size: 1.3em;
     margin: 20px auto;
