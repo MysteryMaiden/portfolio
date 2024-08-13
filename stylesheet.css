@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 .image-background-header {
-    background-image: url(images/Background-image.jpg);
+    background-image: url(Background-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -142,7 +142,7 @@ padding-top: 0;
 }
 
 .quote-section{
-    background-image: url(images/quote-background-image.png);
+    background-image: url(quote-background-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -421,7 +421,7 @@ color: #382E4F;
 }
 
 .inbox-background{
-background-image: url(./images/inbox-backgorund.jpg);
+background-image: url(inbox-backgorund.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -434,7 +434,7 @@ position: relative;
 }
 
 .Messengers-background{
-    background-image:url(./images/inbox-names.jpg);
+    background-image:url(inbox-names.jpg);
     background-repeat: no-repeat;
 background-size: cover;
 position: relative;
